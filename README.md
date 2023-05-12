@@ -1,7 +1,7 @@
 
 # Hello, <img src="https://github.com/SaiHtetWaiYan/SaiHtetWaiYan/blob/main/wave.gif" width="30px">
 
-My name is Sai Htet Wai Yan and I'm a web developer. I'm from Myanmar, living in Yangon . You can find me on [![Twitter][1.2]][1]  or on [![LinkedIn][3.2]][3]
+My name is Sai Htet Wai Yan and I'm a web developer.You can find me on [![Twitter][1.2]][1]  or on [![LinkedIn][3.2]][3]
 
 
 ## 🔧 Technologies & Tools
