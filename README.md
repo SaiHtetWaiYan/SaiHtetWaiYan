@@ -7,11 +7,11 @@ My name is Sai Htet Wai Yan and I'm a full stack web developer.You can find me o
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-tailwindcss-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MariaDB-informational?style=flat&logo=MariaDB&logoColor=white&color=2bbc8a)
